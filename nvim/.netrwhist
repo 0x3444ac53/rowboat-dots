@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/ellie/.config/cava'
+let g:netrw_dirhist_5='/home/ellie'
+let g:netrw_dirhist_4='/home/ellie/repos/uxn/bin/ellies'
+let g:netrw_dirhist_3='/home/ellie/bin'
+let g:netrw_dirhist_2='/home/ellie'
+let g:netrw_dirhist_1='/home/ellie/bin'
+let g:netrw_dirhist_0='/home/ellie'
+let g:netrw_dirhist_9='/home/ellie/repos/FileOrganiser/FileOrganiser'
+let g:netrw_dirhist_8='/home/ellie/repos/FileOrganiser'
+let g:netrw_dirhist_7='/home/ellie/.config/nvim'
